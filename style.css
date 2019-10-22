@@ -10,7 +10,7 @@ body, html {
     -webkit-background-size: cover
 }
 
-.container-fluid {
+#conthead{
     background: rgba(0,0,0,0.4);
     height: 100px;
     line-height: 100px;
@@ -27,5 +27,15 @@ body, html {
     height: 60px;
     text-align: center;
     color: #FFFFFF;
-    line-height: 100px;
+    line-height: 60px;
 }
+
+#contfoot {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0,0,0,0.4);
+    height: 60px;
+}
+
+
+
