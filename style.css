@@ -3,11 +3,10 @@ body, html {
     padding: 0;
     font-family: "Roboto sans serif";
     font-size: large;
-    background: black;
-    background-repeat: no-repeat;
-    background-image: url("img/background_img_red.jpg");
+    background: url("img/background_img_red_bis.jpg") no-repeat center fixed;
     color: white;
-    -webkit-background-size: cover
+    -webkit-background-size: cover;
+    background-size: cover ;
 }
 
 #conthead{
